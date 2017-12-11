@@ -1,5 +1,10 @@
-# README
+# APortfolio
 
-Hello there! This is my personal GitHub repository!
+> This is a Rails 5 application that lets users create their own portfolios
 
-I'll use this baby to control my Rails project, following an Udemy tutorial from devCamp.
+### Features
+
+- Real time chat engine for comments
+- Blog
+- Portfolio
+- Drag n' Drop interface
